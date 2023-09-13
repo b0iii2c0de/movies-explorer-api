@@ -24,6 +24,8 @@
 
 ## Ccылка на pullrequests
 
+https://github.com/c0deb0iii/movies-explorer-api/pull/1
+
 ## Ccылка на репозиторий 
 
 https://c0deb0iii.github.io/movies-explorer-api/
